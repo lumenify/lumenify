@@ -1,5 +1,6 @@
 <h1> Hi there👋 I'm Yavuz</h1>
 A passionate cybersecurity student and android ethusiast
+
 ---
 
 ### 🔍 About Me
