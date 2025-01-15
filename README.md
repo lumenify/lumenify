@@ -16,5 +16,4 @@ A passionate cybersecurity student and android ethusiast
 - Building Android applications using Kotlin in my free time.
 - Actively engaging in CTF challenges and security labs to solidify my knowledge.
 
-Thanks for visiting, ~~and feel free to check out my projects!~~ (you could if you were to find one :p).
----
+Thanks for visiting
